@@ -4,7 +4,7 @@
 > *(Listen, Understand, Trust only the Truth.)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
-[![Track](https://img.shields.io/badge/Track%20E-Misinformation%20%26%20Content%20Literacy-blue)](https://github.com/sustik78/Sangyan_Hackathon)
+[![Track](https://img.shields.io/badge/Track%20E-Misinformation%20%26%20Content%20Literacy-blue)](https://github.com/sustik78/Narayana-National-Hackathon-2026)
 [![Hackathon](https://img.shields.io/badge/Hackathon-SANGYAN%20(SNTC%20IIT%20BHU%20•%20SEBI%20•%20NSDL)-emerald)](#)
 
 ---
@@ -107,8 +107,8 @@ SACH AI is an **accessible, voice-first multilingual misinformation analysis ass
 
 ### 1. Clone & Configure
 ```bash
-git clone https://github.com/sustik78/Sangyan_Hackathon.git
-cd Sangyan_Hackathon
+git clone https://github.com/sustik78/Narayana-National-Hackathon-2026.git
+cd Narayana-National-Hackathon-2026
 cp .env.example .env
 ```
 
@@ -161,7 +161,7 @@ python -m pytest backend/tests
 ## 📂 Repository Structure
 
 ```
-Sangyan_Hackathon/
+Narayana-National-Hackathon-2026/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py
