@@ -1,0 +1,75 @@
+{
+  "brand": "SACH AI",
+  "fullName": "Smart Assistant for Checking Honesty in Financial Information",
+  "tagline": "Suniye, Samajhiye, Sachai pe Bharosa Kijiye.",
+  "hackathonBadge": "SANGYAN Hackathon • Track E (Misinformation & Content Literacy)",
+  "nav": {
+    "verify": "Check Message",
+    "education": "Investor Safety",
+    "sources": "Official Sources",
+    "about": "About Project"
+  },
+  "hero": {
+    "title": "Voice-First Multilingual Financial Misinformation Check",
+    "subtitle": "Empowering retail investors, senior citizens, and regional-language users to verify financial tips, WhatsApp voice notes, and suspicious investment promises against official SEBI & regulatory frameworks.",
+    "ctaCheck": "Check a Message Now",
+    "ctaLearn": "Learn Common Scams",
+    "step1": "1. Record or Paste Claim",
+    "step2": "2. AI & Rule-Based Scam Analysis",
+    "step3": "3. Verified Evidence & Spoken Report"
+  },
+  "workspace": {
+    "title": "Claim Verification Workspace",
+    "subtitle": "Submit financial audio recordings or text messages to identify red flags and verify authenticity.",
+    "tabVoice": "Record Voice",
+    "tabUpload": "Upload Audio",
+    "tabText": "Type / Paste Text",
+    "tabSamples": "Try Sample Scenarios",
+    "micReady": "Click microphone to start recording your voice note or query",
+    "micRecording": "Listening... Speak clearly into your microphone",
+    "micProcessing": "Transcribing audio using AI speech recognition...",
+    "stopRecord": "Stop Recording",
+    "reRecord": "Re-record",
+    "uploadPrompt": "Drag & drop audio file here or click to browse",
+    "uploadHelp": "Supported formats: WAV, MP3, M4A, WEBM, OGG (Max 15MB)",
+    "textPlaceholder": "Paste financial message, Telegram tip, or WhatsApp forward here (e.g., '100% guarantee 300% profit in 5 days, buy XYZ stock now')...",
+    "selectLang": "Preferred Response Language:",
+    "btnAnalyze": "Analyze for Misinformation & Red Flags",
+    "btnAnalyzing": "Analyzing Claims & Cross-Referencing Evidence...",
+    "transcriptLabel": "Transcript (Review & Edit before analysis):",
+    "transcriptPlaceholder": "Your speech transcript will appear here..."
+  },
+  "results": {
+    "title": "Financial Integrity Analysis Report",
+    "riskAssessment": "Overall Risk Assessment",
+    "riskScore": "Risk Indicator Score",
+    "listenAudio": "Listen to Explanation",
+    "stopAudio": "Stop Audio",
+    "originalInput": "Original Analyzed Statement",
+    "claimsBreakdown": "Claim-by-Claim Breakdown",
+    "redFlagsTitle": "Detected Red Flags & Warning Signs",
+    "plainExplanation": "Simple Plain-Language Explanation",
+    "evidenceTitle": "Official Verification & Regulatory Evidence",
+    "verificationSteps": "Recommended Safe Verification Steps",
+    "missingInfo": "Missing Statutory Disclosures",
+    "disclaimerTitle": "Statutory Disclaimer & Responsibility",
+    "btnNewCheck": "Check Another Claim"
+  },
+  "status": {
+    "RED_FLAG": "Potential Red Flags Detected",
+    "NEEDS_VERIFICATION": "Needs Verification / Caution",
+    "NO_OBVIOUS_RED_FLAGS": "No Obvious Red Flags Detected"
+  },
+  "education": {
+    "title": "Investor Safety & Scam Prevention Hub",
+    "subtitle": "Learn how fraudsters target retail investors and how to verify information with SEBI, NSDL, and exchanges.",
+    "quizTitle": "Interactive Scam Awareness Quiz",
+    "reportingTitle": "Emergency Incident Reporting Guide (1930 & SEBI SCORES)"
+  },
+  "accessibility": {
+    "title": "Accessibility Options",
+    "largeText": "Large Text",
+    "highContrast": "High Contrast",
+    "language": "Language"
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "code": "GUARANTEED_RETURN",
+    "name": "Guaranteed or Unrealistic Returns",
+    "severity": "CRITICAL",
+    "keywords_en": [
+      "100% guarantee", "guaranteed profit", "double your money", "200% return", "risk free",
+      "fixed 5% daily", "fixed 10% monthly", "assured income", "no risk", "jackpot tip",
+      "multibagger guarantee", "sure-shot profit", "zero risk", "capital protection guaranteed"
+    ],
+    "keywords_hi": [
+      "100% गारंटी", "गारंटीड मुनाफा", "पैसा डबल", "बिना रिस्क", "पक्का फायदा",
+      "रोजाना 5% मुनाफा", "हर महीने पक्की कमाई", "जैकपॉट टिप", "जीरो रिस्क", "पैसे दोगुने"
+    ],
+    "keywords_bn": [
+      "১০০% গ্যারান্টি", "নিশ্চিত লাভ", "টাকা দ্বিগুণ", "ঝুঁকিমুক্ত", "নিশ্চিত আয়",
+      "প্রতিদিন ৫% লাভ", "জিরো রিস্ক", "পাকা লাভ"
+    ],
+    "explanation_en": "SEBI explicitly prohibits any market intermediary from promising assured or fixed guaranteed returns in stock, options, or crypto markets. Market investments are inherently subject to market risk.",
+    "explanation_hi": "SEBI के नियमों के तहत शेयर बाजार या ऑप्शंस ट्रेडिंग में किसी भी तरह के 'निश्चित' या 'गारंटीड रिटर्न' का वादा करना गैरकानूनी है। शेयर बाजार में हमेशा जोखिम होता है।",
+    "explanation_bn": "SEBI-এর নির্দেশিকা অনুযায়ী শেয়ার বাজার বা ট্রেডিংয়ে কোনো ধরণের 'নিশ্চিত' বা 'গ্যারান্টিযুক্ত' মুনাফার প্রতিশ্রুতি দেওয়া সম্পূর্ণ বেআইনি। বিনিয়োগ সবসময় বাজার ঝুঁকির অধীন।",
+    "safe_action_en": "Never transfer money for assured profit schemes. Verify registered Research Analysts (RA) and Investment Advisers (IA) on SEBI's official portal."
+  },
+  {
+    "code": "FAKE_IPO_ALLOTMENT",
+    "name": "Pre-IPO / Institutional Quota / Fake Allotment Scam",
+    "keywords_en": [
+      "100% ipo allotment", "institutional quota", "fii quota", "special ipo window", "pre-ipo booking link",
+      "vip ipo allocation", "guaranteed allotment", "grey market direct transfer"
+    ],
+    "keywords_hi": [
+      "100% आईपीओ अलॉटमेंट", "संस्थागत कोटा", "एफआईआई कोटा", "वीआईपी आईपीओ", "प्री-आईपीओ बुकिंग", "गारंटीड अलॉटमेंट"
+    ],
+    "keywords_bn": [
+      "১০০% আইপিও বরাদ্দ", "ভিআইপি আইপিও কোটা", "এফআইআই কোটা", "গ্যারান্টিযুক্ত অ্যালটমেন্ট"
+    ],
+    "explanation_en": "Retail IPO allotments are strictly conducted through computerized lotteries via stock exchanges (NSE/BSE) and registrars via ASBA. No private agent, VIP group, or Telegram link can grant assured allotment or bypass ASBA.",
+    "explanation_hi": "खुदरा आईपीओ आवंटन पूरी तरह से एक्सचेंज लॉटरी और ASBA प्रक्रिया के जरिए होता है। कोई भी व्यक्ति या व्हाट्सएप ग्रुप आपको सीधे 'वीआईपी' या 'गारंटीड' आईपीओ नहीं दिला सकता।",
+    "explanation_bn": "খুচরা আইপিও অ্যালটমেন্ট সম্পূর্ণভাবে স্টক এক্সচেঞ্জ এবং ASBA ব্যাংক ব্লকিংয়ের মাধ্যমে লটারিতে হয়। কোনো ব্যক্তি বা টেলিগ্রাম গ্রুপ সরাসরি নিশ্চিত আইপিও দিতে পারে না।",
+    "safe_action_en": "Apply for IPOs strictly through your registered bank ASBA or SEBI-registered broker app. Never deposit money into individual or unknown corporate accounts."
+  },
+  {
+    "code": "TELEGRAM_WHATSAPP_PUMP",
+    "name": "Social Media Pump & Dump / Unregistered Advisory",
+    "keywords_en": [
+      "join telegram vip", "whatsapp insider group", "free calls 99% accuracy", "admin direct dm",
+      "secret penny stock", "buy immediately upper circuit", "operator stock", "target 500% in 3 days"
+    ],
+    "keywords_hi": [
+      "टेलीग्राम वीआईपी ग्रुप", "व्हाट्सएप इनसाइडर ग्रुप", "फ्री कॉल्स 99% एक्यूरेसी", "तुरंत खरीदें अपर सर्किट", "ऑपरेटर स्टॉक"
+    ],
+    "keywords_bn": [
+      "টেলিগ্রাম ভিআইপি গ্রুপ", "হোয়াটসঅ্যাপ সিক্রেট গ্রুপ", "৯৯% নিখুঁত কল", "অবিলম্বে কিনুন", "অপারেটর স্টক"
+    ],
+    "explanation_en": "Scammers artificially pump illiquid penny stocks using fake insider recommendations in private Telegram or WhatsApp groups, then dump their shares when unsuspecting retail buyers bid up the price.",
+    "explanation_hi": "धोखेबाज व्हाट्सएप या टेलीग्राम ग्रुप्स में फर्जी 'इनसाइडर टिप्स' देकर कम लिक्विडिटी वाले शेयरों के दाम बढ़वाते हैं और जैसे ही आम निवेशक खरीदते हैं, वे अपने शेयर बेचकर भाग जाते हैं।",
+    "explanation_bn": "প্রতারকরা সামাজিক মাধ্যম গ্রুপে ভুয়ো 'ইনসাইডার টিপস' দিয়ে কৃত্রিমভাবে শেয়ারের দাম বাড়িয়ে দেয় এবং সাধারণ বিনিয়োগকারীরা কেনার সাথে সাথেই নিজেদের শেয়ার বিক্রি করে পালিয়ে যায়।",
+    "safe_action_en": "Only take financial advice from SEBI Registered Investment Advisers (RIA) or Research Analysts (RA). Always check registration numbers on scores.sebi.gov.in."
+  },
+  {
+    "code": "URGENCY_FOMO",
+    "name": "High-Pressure Urgency & FOMO Tactics",
+    "keywords_en": [
+      "only 5 spots left", "expires in 10 minutes", "last chance today", "act now before too late",
+      "limited seats", "offer closing tonight", "hurry up transfer now"
+    ],
+    "keywords_hi": [
+      "सिर्फ 5 सीटें बची हैं", "10 मिनट में खत्म", "आज का आखिरी मौका", "तुरंत पैसे भेजें", "जल्दी करें"
+    ],
+    "keywords_bn": [
+      "মাত্র ৫টি সিট বাকি", "১০ মিনিটে শেষ হবে", "আজকের শেষ সুযোগ", "দেরি করবেন না", "এখনই টাকা পাঠান"
+    ],
+    "explanation_en": "Fraudsters create artificial urgency to prevent you from conducting due diligence, consulting trusted financial advisors, or verifying credentials with regulators.",
+    "explanation_hi": "धोखेबाज कृत्रिम तात्कालिकता (FOMO) पैदा करते हैं ताकि आप सोचने या किसी रजिस्टर्ड सलाहकार से जांच करने का मौका न पा सकें।",
+    "explanation_bn": "প্রতারকরা কৃত্রিম তাড়াহুড়ো সৃষ্টি করে যাতে আপনি যাচাই করার বা বিশেষজ্ঞদের সাথে পরামর্শ করার সুযোগ না পান।",
+    "safe_action_en": "Take time to verify any investment proposition independently. Genuine financial opportunities never require panic-driven instant transfers."
+  },
+  {
+    "code": "CREDENTIAL_FUND_SOLICITATION",
+    "name": "Unauthorized Fund Solicitation & Credential Harvesting",
+    "keywords_en": [
+      "share otp", "send to upi id", "deposit in personal account", "share demat password",
+      "remote access anydesk", "screen share for profit", "trading account handle", "profit sharing 30%"
+    ],
+    "keywords_hi": [
+      "ओटीपी शेयर करें", "यूपीआई पर पैसे भेजें", "पर्सनल खाते में जमा", "डीमैट पासवर्ड दें", "एनीडेस्क डाउनलोड करें"
+    ],
+    "keywords_bn": [
+      "ওটিপি দিন", "ইউপিআই আইডিতে পাঠান", "ব্যক্তিগত অ্যাকাউন্টে টাকা জমা", "ডিম্যাট পাসওয়ার্ড", "অ্যানিডেস্ক ডাউনলোড"
+    ],
+    "explanation_en": "Legitimate brokers and funds never ask for your Demat trading passwords, OTPs, or direct money transfers to personal UPI accounts or unverified third parties.",
+    "explanation_hi": "कोई भी असली ब्रोकर या फंड मैनेजर कभी भी आपका ट्रेडिंग पासवर्ड, OTP या किसी निजी व्यक्ति के UPI पर पैसे भेजने के लिए नहीं कहता।",
+    "explanation_bn": "কোনো অনুমোদিত ব্রোকার বা এক্সচেঞ্জ কখনই আপনার পাসওয়ার্ড, ওটিপি বা ব্যক্তিগত ইউপিআই অ্যাকাউন্টে টাকা স্থানান্তর করতে বলে না।",
+    "safe_action_en": "Never share OTP, passwords, or install remote access software (AnyDesk, TeamViewer) at the request of financial tipsters."
+  },
+  {
+    "code": "IMPERSONATION_REGULATOR",
+    "name": "SEBI, Exchange, or Famous Figure Impersonation",
+    "keywords_en": [
+      "sebi approved scheme", "rbi official lottery", "authorized by mukesh ambani",
+      "jhunjhunwala portfolio leak", "national stock exchange direct scheme", "government guaranteed share"
+    ],
+    "keywords_hi": [
+      "सेबी अप्रूव्ड स्कीम", "आरबीआई ऑफिशियल लॉटरी", "मुकेश अंबानी का सीक्रेट फंड", "झुनझुनवाला पोर्टफोलियो लीक", "सरकारी गारंटीड शेयर"
+    ],
+    "keywords_bn": [
+      "সেবি অনুমোদিত স্কিম", "আরবিআই অফিশিয়াল লটারি", "ঝুনঝুনওয়ালা পোর্টফোলিও", "সরকারি গ্যারান্টিযুক্ত শেয়ার"
+    ],
+    "explanation_en": "SEBI and RBI do not launch investment schemes, guarantee retail stock returns, or endorse private trading groups. Celebrity videos promoting secret trading schemes are frequently AI deepfakes.",
+    "explanation_hi": "SEBI या RBI कोई निवेश योजना या मुनाफे की गारंटी नहीं देते। मशहूर हस्तियों के नाम पर चलने वाले सीक्रेट ट्रेडिंग ग्रुप अक्सर AI डीपफेक होते हैं।",
+    "explanation_bn": "SEBI বা RBI কোনো বিনিয়োগ স্কিম পরিচালনা করে না বা কোনো ট্রেডিং গ্রুপের অনুমোদন দেয় না। বিখ্যাত ব্যক্তিদের ভিডিওগুলি প্রায়শই AI ডিপফেক হয়।",
+    "safe_action_en": "Directly check SEBI's intermediary directory at sebi.gov.in to confirm whether any entity is genuinely licensed."
+  }
+]

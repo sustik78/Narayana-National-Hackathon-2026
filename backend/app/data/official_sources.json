@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sebi_scores",
+    "name": "SEBI SCORES (SEBI Complaints Redress System)",
+    "category": "Regulator Portal",
+    "description": "Centralized grievance redressal system by the Securities and Exchange Board of India for investor complaints.",
+    "url": "https://scores.sebi.gov.in",
+    "verification_scope": "Check registered intermediaries, file complaints against brokers, listed companies, and depository participants."
+  },
+  {
+    "id": "sebi_saarthi",
+    "name": "SEBI Saa₹thi Investor Education",
+    "category": "Investor Education",
+    "description": "SEBI official initiative empowering investors with knowledge about securities market, KYC processes, and mutual funds.",
+    "url": "https://investor.sebi.gov.in",
+    "verification_scope": "Educational guides on mutual funds, trading basics, avoiding unregistered advisory schemes."
+  },
+  {
+    "id": "nsdl_investor",
+    "name": "NSDL Investor Services & CAS",
+    "category": "Depository",
+    "description": "National Securities Depository Limited investor portal for demat holding verification, e-voting, and consolidated account statements.",
+    "url": "https://nsdl.co.in/investors.php",
+    "verification_scope": "Verify genuine demat credit of shares, IPO allotments, and avoid unlisted share scams."
+  },
+  {
+    "id": "rbi_kehta_hai",
+    "name": "RBI Kehta Hai (Reserve Bank of India)",
+    "category": "Banking Regulator",
+    "description": "Public awareness initiative by RBI on safe digital banking, unauthorized lending apps, and lottery fraud.",
+    "url": "https://rbikehtahai.rbi.org.in",
+    "verification_scope": "Verify banking safety rules, unauthorized loan apps, and Ponzi scheme alerts."
+  },
+  {
+    "id": "cybercrime_portal",
+    "name": "National Cyber Crime Reporting Portal (Helpline 1930)",
+    "category": "Law Enforcement",
+    "description": "Government of India portal to report financial cyber fraud, investment scams, and phishing attempts.",
+    "url": "https://cybercrime.gov.in",
+    "verification_scope": "Immediate reporting of financial fraud to freeze defrauded funds in transit."
+  },
+  {
+    "id": "bse_investors",
+    "name": "BSE India Investor Protection",
+    "category": "Stock Exchange",
+    "description": "Bombay Stock Exchange directory of registered members, listed company corporate announcements, and regulatory cautions.",
+    "url": "https://www.bseindia.com/investors/inv_services.aspx",
+    "verification_scope": "Confirm genuine stock announcements, exchange board notices, and valid trading members."
+  },
+  {
+    "id": "nse_investors",
+    "name": "NSE India Investor Services & Alerts",
+    "category": "Stock Exchange",
+    "description": "National Stock Exchange caution notices against unregistered entities offering guaranteed returns and dabba trading.",
+    "url": "https://www.nseindia.com/invest/investor-services",
+    "verification_scope": "Verify cautions against illegal telegram channels, fake algorithmic trading schemes, and unauthorized advisers."
+  }
+]

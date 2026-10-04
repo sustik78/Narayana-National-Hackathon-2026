@@ -1,0 +1,208 @@
+{
+  "modules": [
+    {
+      "id": "guaranteed_returns",
+      "title_en": "The Illusion of Guaranteed Returns",
+      "title_hi": "गारंटीड रिटर्न का झांसा",
+      "title_bn": "নিশ্চিত লাভের মায়াজাল",
+      "summary_en": "Why no legitimate financial entity can promise 100% fixed profit in stock or derivatives markets.",
+      "summary_hi": "क्यों कोई भी कानूनी वित्तीय संस्था शेयर या वायदा बाजार में 100% निश्चित मुनाफे का वादा नहीं कर सकती।",
+      "summary_bn": "কেন কোনো বৈধ আর্থিক প্রতিষ্ঠান শেয়ার বা ট্রেডিং বাজারে ১০০% নির্দিষ্ট মুনাফার প্রতিশ্রুতি দিতে পারে না।",
+      "key_points": [
+        "SEBI regulation prohibits any intermediary from guaranteeing stock market returns.",
+        "Higher promise of returns directly correlates with extreme risk or outright Ponzi fraud.",
+        "Scammers pay initial 'profits' from new joiners' money before vanishing."
+      ]
+    },
+    {
+      "id": "fake_ipo_allotment",
+      "title_en": "Fake Pre-IPO and VIP Allotments",
+      "title_hi": "फर्जी प्री-आईपीओ और वीआईपी आवंटन",
+      "title_bn": "ভুয়ো প্রি-আইপিও এবং ভিআইপি অ্যালটমেন্ট",
+      "summary_en": "Understanding how genuine ASBA IPO allotment works vs bogus VIP quota links.",
+      "summary_hi": "असली ASBA आईपीओ प्रक्रिया बनाम फर्जी वीआईपी कोटे का सच समझें।",
+      "summary_bn": "আসল ASBA আইপিও প্রক্রিয়া বনাম ভুয়ো ভিআইপি কোটার সত্যতা বুঝুন।",
+      "key_points": [
+        "All legitimate retail IPO bids are processed through bank ASBA where funds stay in your account until allotment.",
+        "Scammers provide fake trading web apps that show false share allocations.",
+        "Never transfer money to individual bank accounts or unverified UPI IDs for IPOs."
+      ]
+    },
+    {
+      "id": "telegram_pumps",
+      "title_en": "Pump-and-Dump Schemes on Social Media",
+      "title_hi": "सोशल मीडिया पर पंप-एंड-डंप गिरोह",
+      "title_bn": "সোশ্যাল মিডিয়ায় পাম্প-অ্যান্ড-ডাম্প চক্র",
+      "summary_en": "How fraudulent operators hype low-liquidity penny stocks to dump onto retail investors.",
+      "summary_hi": "कैसे धोखेबाज कम लिक्विडिटी वाले पेनी स्टॉक्स का झूठा प्रचार कर आम जनता को फंसाते हैं।",
+      "summary_bn": "কীভাবে প্রতারকরা কম তরলতার পেনি শেয়ারের ভুয়ো প্রচার চালিয়ে সাধারণ বিনিয়োগকারীদের ফাঁদে ফেলে।",
+      "key_points": [
+        "Operators accumulate illiquid stocks quietly at low prices.",
+        "They blast WhatsApp & Telegram messages claiming 'insider multibagger leak'.",
+        "Retail investors buy in FOMO, driving price up, while operators liquidate and exit."
+      ]
+    },
+    {
+      "id": "deepfake_impersonation",
+      "title_en": "AI Deepfakes & Impersonation of Market Leaders",
+      "title_hi": "एआई डीपफेक और दिग्गजों की फर्जी पहचान",
+      "title_bn": "এআই ডিপফেক এবং শীর্ষ ব্যক্তিত্বদের ভুয়ো পরিচয়",
+      "summary_en": "Detecting AI-generated audio/video clones of business leaders promoting secret trading apps.",
+      "summary_hi": "बिजनेस लीडर्स की आवाज और वीडियो की नकल कर सीक्रेट ट्रेडिंग ऐप बेचने वाले डीपफेक पहचानें।",
+      "summary_bn": "শীর্ষ ব্যক্তিত্বদের ভয়েস এবং ভিডিও নকল করে ভুয়ো ট্রেডিং অ্যাপ প্রচারকারী ডিপফেক চিহ্নিত করুন।",
+      "key_points": [
+        "Check unnatural lip-sync or robotic audio inflections in video ads.",
+        "Reputable industrialists and investors never ask you to join secret WhatsApp groups.",
+        "Always cross-reference announcements on official stock exchange websites (BSE / NSE)."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question_en": "A WhatsApp group claims: 'Deposit ₹10,000 and get guaranteed ₹50,000 in 7 days via institutional algorithmic trading.' What should you do?",
+      "question_hi": "एक व्हाट्सएप ग्रुप का दावा है: '₹10,000 जमा करें और 7 दिनों में संस्थागत ट्रेडिंग से ₹50,000 गारंटीड पाएं।' आपको क्या करना चाहिए?",
+      "question_bn": "একটি হোয়াটসঅ্যাপ গ্রুপের দাবি: '₹১০,০০০ জমা দিন এবং ৭ দিনে প্রাতিষ্ঠানিক ট্রেডিংয়ের মাধ্যমে ₹৫০,০০০ নিশ্চিত পান।' আপনার কী করা উচিত?",
+      "options_en": [
+        "Invest immediately to test with small amount",
+        "Forward the message to family and friends",
+        "Recognize it as a classic Ponzi/guaranteed return scam, do not pay, and report to 1930 / SEBI",
+        "Ask the admin for their PAN card before investing"
+      ],
+      "options_hi": [
+        "छोटा अमाउंट लगाकर तुरंत टेस्ट करें",
+        "दोस्तों और परिवार को मैसेज फॉरवर्ड करें",
+        "इसे गारंटीड रिटर्न का फ्रॉड समझें, पैसे न भेजें और 1930/SEBI पर रिपोर्ट करें",
+        "पैसे भेजने से पहले एडमिन से उसका पैन कार्ड मांगें"
+      ],
+      "options_bn": [
+        "ছোট পরিমাণ দিয়ে অবিলম্বে বিনিয়োগ পরীক্ষা করুন",
+        "মেসেজটি পরিবার ও বন্ধুদের ফরোয়ার্ড করুন",
+        "এটিকে একটি প্রতারণামূলক স্কিম হিসেবে চিহ্নিত করুন, টাকা দেবেন না এবং ১৯৩০/SEBI-তে অভিযোগ জানান",
+        "বিনিয়োগ করার আগে অ্যাডমিনের প্যান কার্ড চান"
+      ],
+      "correct_index": 2,
+      "explanation_en": "Guaranteed 500% returns in 7 days are impossible in legitimate financial markets. Any such scheme is a fraud. Do not send any money and report the handle to cybercrime authorities.",
+      "explanation_hi": "7 दिनों में 500% गारंटीड रिटर्न पूरी तरह से असंभव और गैरकानूनी है। कोई भी धनराशि न भेजें और 1930 पर शिकायत दर्ज करें।",
+      "explanation_bn": "৭ দিনে ৫০০% নিশ্চিত রিটার্ন সম্পূর্ণ অসম্ভব এবং বেআইনি। কোনো টাকা পাঠাবেন না এবং ১৯৩০ নম্বরে অভিযোগ করুন।"
+    },
+    {
+      "id": "q2",
+      "question_en": "How are retail IPO shares legitimately allotted in India?",
+      "question_hi": "भारत में खुदरा आईपीओ शेयर कानूनी रूप से कैसे आवंटित होते हैं?",
+      "question_bn": "ভারতে খুচরা আইপিও শেয়ার আইনানুগভাবে কীভাবে বরাদ্দ করা হয়?",
+      "options_en": [
+        "Direct transfer of cash to Telegram group admins",
+        "Via SEBI-registered brokers / banks using ASBA (Application Supported by Blocked Amount)",
+        "By paying an upfront 20% convenience fee to an unverified website",
+        "By downloading an unverified APK from WhatsApp"
+      ],
+      "options_hi": [
+        "टेलीग्राम ग्रुप एडमिन को सीधे कैश ट्रांसफर करके",
+        "SEBI-पंजीकृत ब्रोकर या बैंक के जरिए ASBA (अकाउंट में फंड ब्लॉक) प्रणाली द्वारा",
+        "किसी अनवेरिफाइड वेबसाइट पर 20% फीस देकर",
+        "व्हाट्सएप से अनवेरिफाइड APK ऐप डाउनलोड करके"
+      ],
+      "options_bn": [
+        "টেলিগ্রাম অ্যাডমিনকে সরাসরি নগদ টাকা পাঠিয়ে",
+        "SEBI-অনুমোদিত ব্রোকার বা ব্যাংকের মাধ্যমে ASBA সিস্টেমের সাহায্যে",
+        "একটি অজানা ওয়েবসাইটে ২০% ফি দিয়ে",
+        "হোয়াটসঅ্যাপ থেকে অজানা APK ডাউনলোড করে"
+      ],
+      "correct_index": 1,
+      "explanation_en": "IPO application in India strictly happens through ASBA, where funds remain blocked in your own bank account until allotment.",
+      "explanation_hi": "भारत में आईपीओ आवेदन केवल ASBA के माध्यम से होता है, जहां अलॉटमेंट होने तक पैसे आपके अपने बैंक खाते में सुरक्षित ब्लॉक रहते हैं।",
+      "explanation_bn": "ভারতে আইপিও আবেদন শুধুমাত্র ASBA-এর মাধ্যমে হয়, যেখানে শেয়ার বরাদ্দ না হওয়া পর্যন্ত টাকা আপনার নিজের ব্যাংকে সুরক্ষিত থাকে।"
+    },
+    {
+      "id": "q3",
+      "question_en": "You receive an urgent message: 'Your Demat account will be frozen within 2 hours unless you verify KYC on this link.' What is the safest action?",
+      "question_hi": "आपको एक संदेश मिलता है: '2 घंटे में आपका डीमैट फ्रीज हो जाएगा, तुरंत इस लिंक पर केवाईसी करें।' सबसे सुरक्षित कदम क्या है?",
+      "question_bn": "আপনি একটি জরুরি বার্তা পান: '২ ঘণ্টার মধ্যে আপনার ডিম্যাট অ্যাকাউন্ট ব্লক হবে, এখনই এই লিঙ্কে কেওয়াইসি করুন।' সবচেয়ে নিরাপদ পদক্ষেপ কী?",
+      "options_en": [
+        "Click the link and enter your Demat password and OTP",
+        "Ignore the SMS link and check your status directly inside your registered broker's official app or NSDL/CDSL portal",
+        "Forward the SMS to all WhatsApp contacts",
+        "Call the mobile number provided in the SMS"
+      ],
+      "options_hi": [
+        "लिंक पर क्लिक करें और अपना पासवर्ड और OTP भरें",
+        "एसएमएस लिंक पर क्लिक न करें, सीधे अपने ब्रोकर के आधिकारिक ऐप या NSDL/CDSL पोर्टल पर चेक करें",
+        "सभी व्हाट्सएप कॉन्टैक्ट्स को फॉरवर्ड करें",
+        "एसएमएस में दिए गए मोबाइल नंबर पर कॉल करें"
+      ],
+      "options_bn": [
+        "লিঙ্কে ক্লিক করে পাসওয়ার্ড ও ওটিপি দিন",
+        "এসএমএস লিঙ্ক এড়িয়ে চলুন এবং সরাসরি আপনার অনুমোদিত ব্রোকার অ্যাপ বা NSDL/CDSL পোর্টালে যাচাই করুন",
+        "সব পরিচিতদের ফরোয়ার্ড করুন",
+        "এসএমএস-এ থাকা নম্বরে কল করুন"
+      ],
+      "correct_index": 1,
+      "explanation_en": "Urgent account freezing threats are classic phishing tactics. Never click on random links; always log into your genuine registered broker application or depository portal directly.",
+      "explanation_hi": "खाता बंद होने की तुरंत धमकी देना फिशिंग का आम तरीका है। कभी भी अज्ञात लिंक पर क्लिक न करें, हमेशा आधिकारिक ब्रोकर ऐप में ही चेक करें।",
+      "explanation_bn": "অ্যাকাউন্ট ব্লকের ভীতি প্রদর্শন ফিশিং প্রতারণার লক্ষণ। লিঙ্কে ক্লিক না করে সরাসরি ব্রোকারের আসল অ্যাপে চেক করুন।"
+    }
+  ],
+  "sample_scenarios": [
+    {
+      "id": "sample_1_guaranteed_pump",
+      "title_en": "Guaranteed Multibagger Penny Stock Tip (Telegram)",
+      "title_hi": "गारंटीड मल्टीबैगर पेनी स्टॉक टिप (टेलीग्राम)",
+      "title_bn": "নিশ্চিত মাল্টিব্যাগার পেনি শেয়ারের টিপ (টেলিগ্রাম)",
+      "category": "High Risk / Fraud Indicator",
+      "text_en": "URGENT VIP ALERT! Buy XYZ Power Ltd tomorrow at 9:15 AM. Big institutional buying confirmed. 100% guaranteed target of 300% profit in 5 days! No risk. Join our VIP Telegram group for daily jackpot calls.",
+      "text_hi": "अति आवश्यक वीआईपी अलर्ट! कल सुबह 9:15 बजे XYZ पावर खरीदें। 100% गारंटीड 300% मुनाफा सिर्फ 5 दिनों में! कोई रिस्क नहीं। रोजाना पक्के जैकपॉट कॉल के लिए हमारा वीआईपी टेलीग्राम ग्रुप जॉइन करें।",
+      "text_bn": "জরুরি ভিআইপি অ্যালার্ট! আগামীকাল সকাল ৯:১৫ তে XYZ পাওয়ার শেয়ার কিনুন। ১০০% নিশ্চিত ৩০০% লাভ মাত্র ৫ দিনে! কোনো ঝুঁকি নেই। প্রতিদিন নিশ্চিত জ্যাকপটের জন্য আমাদের ভিআইপি টেলিগ্রাম গ্রুপে যোগ দিন।"
+    },
+    {
+      "id": "sample_2_fake_ipo",
+      "title_en": "Pre-IPO Institutional Quota Allotment Scheme",
+      "title_hi": "प्री-आईपीओ संस्थागत कोटा स्कीम",
+      "title_bn": "প্রি-আইপিও প্রাতিষ্ঠানিক কোটা স্কিম",
+      "category": "High Risk / Fraud Indicator",
+      "text_en": "Special FII Institutional Window! Get 100% guaranteed allotment in upcoming Mega IPO at 40% discount before listing. Only 10 seats remaining. Transfer application amount of ₹50,000 to direct allotment account.",
+      "text_hi": "स्पेशल एफआईआई कोटा! आगामी मेगा आईपीओ में 40% छूट पर 100% गारंटीड अलॉटमेंट पाएं। सिर्फ 10 सीटें बाकी हैं। अलॉटमेंट अकाउंट में तुरंत ₹50,000 ट्रांसफर करें।",
+      "text_bn": "বিশেষ এফআইআই কোটা! আসন্ন মেগা আইপিও-তে ৪০% ছাড়ে ১০০% নিশ্চিত অ্যালটমেন্ট পান। মাত্র ১০টি সিট বাকি। সরাসরি অ্যালটমেন্ট অ্যাকাউন্টে ₹৫০,০০০ ট্রান্সফার করুন।"
+    },
+    {
+      "id": "sample_3_genuine_notice",
+      "title_en": "Official Exchange Caution Notice (Legitimate)",
+      "title_hi": "आधिकारिक एक्सचेंज चेतावनी नोटिस (वैध)",
+      "title_bn": "অফিশিয়াল স্টক এক্সচেঞ্জ সতর্কতা (বৈধ)",
+      "category": "Legitimate / Educational",
+      "text_en": "SEBI and NSE advise retail investors to remain vigilant against unregistered entities promising fixed returns in stock and derivatives trading. Investors are requested to verify registrations at sebi.gov.in.",
+      "text_hi": "SEBI और NSE खुदरा निवेशकों को शेयर और वायदा बाजार में निश्चित रिटर्न का वादा करने वाली अपंजीकृत संस्थाओं से सतर्क रहने की सलाह देते हैं। sebi.gov.in पर पंजीकरण की जांच अवश्य करें।",
+      "text_bn": "SEBI এবং NSE বিনিয়োগকারীদের শেয়ার বাজারে নির্দিষ্ট লাভের প্রতিশ্রুতি দেওয়া অনুমোদনহীন সংস্থাগুলি থেকে সতর্ক থাকার পরামর্শ দিচ্ছে। sebi.gov.in-এ রেজিস্ট্রেশন যাচাই করুন।"
+    }
+  ],
+  "reporting_steps": [
+    {
+      "step": 1,
+      "title_en": "Call Cybercrime Helpline 1930 Immediately",
+      "title_hi": "तुरंत 1930 साइबर हेल्पलाइन पर कॉल करें",
+      "title_bn": "অবিলম্বে ১৯৩০ সাইবার হেল্পলাইনে কল করুন",
+      "desc_en": "If you transferred money within the last few hours, calling 1930 enables the financial fraud network to freeze the money in the recipient bank or wallet."
+    },
+    {
+      "step": 2,
+      "title_en": "Register Complaint on National Cyber Crime Portal",
+      "title_hi": "राष्ट्रीय साइबर अपराध पोर्टल पर शिकायत दर्ज करें",
+      "title_bn": "জাতীয় সাইবার ক্রাইম পোর্টালে অভিযোগ দাখিল করুন",
+      "desc_en": "Submit all transaction IDs, bank statements, chat screenshots, and mobile numbers at cybercrime.gov.in."
+    },
+    {
+      "step": 3,
+      "title_en": "Lodge Grievance on SEBI SCORES Portal",
+      "title_hi": "SEBI SCORES पोर्टल पर शिकायत दर्ज करें",
+      "title_bn": "SEBI SCORES পোর্টালে অভিযোগ জানান",
+      "desc_en": "If an entity claimed to be a SEBI registered broker, analyst, or mutual fund, report them directly at scores.sebi.gov.in."
+    },
+    {
+      "step": 4,
+      "title_en": "Inform Your Bank & Depository",
+      "title_hi": "अपने बैंक और डिपॉजिटरी को सूचित करें",
+      "title_bn": "আপনার ব্যাংক ও ডিপোজিটরিকে জানান",
+      "desc_en": "Notify your bank manager to block compromised cards/net banking and inform your DP (NSDL/CDSL) if Demat credentials were exposed."
+    }
+  ]
+}
