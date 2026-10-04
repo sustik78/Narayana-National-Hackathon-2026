@@ -206,7 +206,6 @@ Narayana-National-Hackathon-2026/
 
 ## 🏆 Hackathon Submission Details
 
-- **Event**: SANGYAN Hackathon (IIT BHU Varanasi • SEBI • NSDL)
 - **Track**: Track E — Misinformation & Content Literacy
 - **Pitch Deck**: Available inside [`presentation/`](presentation/) (.pptx and .pdf)
 - **Demo Script**: Available inside [`demo/`](demo/)
